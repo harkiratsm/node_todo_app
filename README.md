@@ -7,7 +7,5 @@
 2) Express js
 3) EJS 
 4) Heroku
-
 <br />
-
-### [Live Perview] (https://cryptic-spire-79696.herokuapp.com/) 
+### [Live Perview](https://cryptic-spire-79696.herokuapp.com/) 

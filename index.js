@@ -18,7 +18,7 @@ app.use(express.static("public"));
 
 app.get('/',async(req,res)=>{
     let todo=[];
-    await axios.get('http://localhost:5000/getall')
+    await axios.get('https://cryptic-spire-79696.herokuapp.com/getall')
                     .then((res)=>{
                         todo=res.data;
                         

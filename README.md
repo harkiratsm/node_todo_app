@@ -9,7 +9,7 @@ A simple Todo App
 2) Express js
 3) EJS 
 4) Heroku
-5) Mongoose
+%) Mongoose
 <br />
 
 ```javascript

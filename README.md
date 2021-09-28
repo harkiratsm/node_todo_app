@@ -15,6 +15,4 @@ A simple Todo App
 ```javascript
 made with love
 ```
-
-
 ### [Live Perview](https://cryptic-spire-79696.herokuapp.com/) 

@@ -9,12 +9,10 @@ A simple Todo App
 2) Express js
 3) EJS 
 4) Heroku
-%) Mongoose
+5) Mongoose
 <br />
 
 ```javascript
 made with love
 ```
-
-
 ### [Live Perview](https://cryptic-spire-79696.herokuapp.com/) 

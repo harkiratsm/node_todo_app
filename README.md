@@ -2,6 +2,8 @@
 
 <br />
 
+A simple Todo App
+
 ## Made With 🔨
 1) Node js
 2) Express js
@@ -11,7 +13,8 @@
 <br />
 
 ```javascript
-made with love  
+made with love
 ```
+
 
 ### [Live Perview](https://cryptic-spire-79696.herokuapp.com/) 
